@@ -1,7 +1,7 @@
 using System;
 using System.Runtime.Serialization;
 
-namespace Primavera.Platform.CloudServices900.Configuration
+namespace BinaryLeaks.Core.Configuration
 {
     /// <summary>
     /// Configuration invalid exception class.

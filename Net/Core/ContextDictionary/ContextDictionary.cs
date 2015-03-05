@@ -4,9 +4,9 @@ using System.Globalization;
 using System.Linq;
 using System.Reflection;
 using System.Runtime.InteropServices;
-using Primavera.Platform.CloudServices900.Helpers;
+using BinaryLeaks.Core.Helpers;
 
-namespace Primavera.Platform.CloudServices900.Context
+namespace BinaryLeaks.Core.Context
 {
     /// <summary>
     /// Class exposed to COM. 

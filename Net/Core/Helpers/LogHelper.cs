@@ -5,7 +5,7 @@ using System.Globalization;
 using System.IO;
 using System.Reflection;
 
-namespace Primavera.Platform.CloudServices900.Helpers
+namespace BinaryLeaks.Core.Helpers
 {
     /// <summary>
     /// Log Definitions.

@@ -1,7 +1,7 @@
 using System;
 using System.Runtime.InteropServices;
 
-namespace Primavera.Platform.CloudServices900.Configuration
+namespace BinaryLeaks.Core.Configuration
 {
     /// <summary>
     /// Interface exposed to COM.

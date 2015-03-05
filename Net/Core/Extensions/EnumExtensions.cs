@@ -1,8 +1,8 @@
 using System;
 using System.Reflection;
-using Primavera.Platform.CloudServices900.Context;
+using BinaryLeaks.Core.Context;
 
-namespace Primavera.Platform.CloudServices900.Extensions
+namespace BinaryLeaks.Core.Extensions
 {
     /// <summary>
     ///   <see cref="EnumExtensions"/> class.

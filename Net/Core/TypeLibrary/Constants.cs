@@ -1,8 +1,8 @@
 using System;
 using System.Runtime.InteropServices;
-using Primavera.Platform.CloudServices900.Context;
+using BinaryLeaks.Core.Context;
 
-namespace Primavera.Platform.CloudServices900
+namespace BinaryLeaks.Core
 {
     /// <summary>
     /// Exposes constants, types and enumerations to COM.

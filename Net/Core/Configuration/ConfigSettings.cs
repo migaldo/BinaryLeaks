@@ -2,10 +2,10 @@ using System;
 using System.Globalization;
 using System.IO;
 using Primavera.Core.Configuration;
-using Primavera.Platform.CloudServices900.Diagnostics;
-using Primavera.Platform.CloudServices900.Helpers;
+using BinaryLeaks.Core.Diagnostics;
+using BinaryLeaks.Core.Helpers;
 
-namespace Primavera.Platform.CloudServices900.Configuration
+namespace BinaryLeaks.Core.Configuration
 {
     /// <summary>
     /// Provides the configuration settings for this assembly and current application.

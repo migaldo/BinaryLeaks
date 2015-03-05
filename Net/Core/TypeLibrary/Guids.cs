@@ -1,4 +1,4 @@
-namespace Primavera.Platform.CloudServices900
+namespace BinaryLeaks.Core
 {
     /// <summary>
     /// Provides the identity for exposed COM classes and interfaces.

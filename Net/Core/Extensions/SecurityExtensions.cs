@@ -6,7 +6,7 @@ using System.Security;
 using System.Security.Cryptography;
 using System.Text;
 
-namespace Primavera.Platform.CloudServices900.Extensions
+namespace BinaryLeaks.Core.Extensions
 {
   /// <summary>
   /// Provides Windows Data Protection API (DPAPI) extension methods

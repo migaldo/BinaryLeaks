@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace Primavera.Platform.CloudServices900.Context
+namespace BinaryLeaks.Core.Context
 {
     /// <summary>
     /// Class that implements the StringValueAttribute.

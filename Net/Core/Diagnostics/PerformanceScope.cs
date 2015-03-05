@@ -1,8 +1,8 @@
 using System;
 using System.Globalization;
-using Primavera.Platform.CloudServices900.Helpers;
+using BinaryLeaks.Core.Helpers;
 
-namespace Primavera.Platform.CloudServices900.Diagnostics
+namespace BinaryLeaks.Core.Diagnostics
 {
     /// <summary>
     /// Performance scope class.

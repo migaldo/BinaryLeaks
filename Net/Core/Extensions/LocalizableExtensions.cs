@@ -3,7 +3,7 @@ using System.Globalization;
 using System.Linq;
 using System.Xml.Linq;
 
-namespace Primavera.Platform.CloudServices900.Extensions
+namespace BinaryLeaks.Core.Extensions
 {
     /// <summary>
     /// Provides localizable extension methods.

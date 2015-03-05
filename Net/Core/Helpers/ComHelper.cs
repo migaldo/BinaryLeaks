@@ -2,7 +2,7 @@ using System;
 using System.Runtime.InteropServices;
 using ComTypes = System.Runtime.InteropServices.ComTypes;
 
-namespace Primavera.Platform.CloudServices900.Helpers
+namespace BinaryLeaks.Core.Helpers
 {
     /// <summary>
     /// Provides a COM helper.

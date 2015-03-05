@@ -4,7 +4,7 @@ using System.IO;
 using System.Reflection;
 using System.Windows.Forms;
 
-namespace Primavera.Platform.CloudServices900.Helpers
+namespace BinaryLeaks.Core.Helpers
 {
     /// <summary>
     /// Provides the Assembly helper.

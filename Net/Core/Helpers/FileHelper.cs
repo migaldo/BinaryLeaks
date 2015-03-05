@@ -1,7 +1,7 @@
 using System;
 using System.IO;
 
-namespace Primavera.Platform.CloudServices900.Helpers
+namespace BinaryLeaks.Core.Helpers
 {
     /// <summary>
     /// Provides a File helper.

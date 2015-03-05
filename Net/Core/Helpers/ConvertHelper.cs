@@ -2,7 +2,7 @@ using System;
 using System.ComponentModel;
 using System.Globalization;
 
-namespace Primavera.Platform.CloudServices900.Helpers
+namespace BinaryLeaks.Core.Helpers
 {
     /// <summary>
     /// Convert helper class.
