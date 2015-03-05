@@ -1,7 +1,7 @@
 using System;
 using Win32 = Primavera.Core.Interop.Win32;
 
-namespace Primavera.Platform.CloudServices900.Base
+namespace BinaryLeaks.Base
 {
     /// <summary>
     /// Base class for disposable classes.
