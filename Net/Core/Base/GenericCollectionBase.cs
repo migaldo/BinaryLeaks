@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.Diagnostics;
 
-namespace Primavera.Platform.CloudServices900.Base
+namespace BinaryLeaks.Core.Base
 {
     /// <summary>
     /// An abstract base class used to create strongly typed collections.
