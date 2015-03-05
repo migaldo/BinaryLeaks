@@ -1,5 +1,5 @@
 using System;
-using Win32 = Primavera.Core.Interop.Win32;
+using Win32 = BinaryLeaks.Core.Interop.Win32;
 
 namespace BinaryLeaks.Base
 {
