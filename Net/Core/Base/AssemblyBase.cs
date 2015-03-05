@@ -1,8 +1,8 @@
-using Primavera.Platform.CloudServices900.Configuration;
-using Primavera.Platform.CloudServices900.Diagnostics;
-using Primavera.Platform.CloudServices900.Helpers;
+using BinaryLeaks.Core.Configuration;
+using BinaryLeaks.Core.Diagnostics;
+using BinaryLeaks.Core.Helpers;
 
-namespace Primavera.Platform.CloudServices900.Base
+namespace BinaryLeaks.Core.Base
 {
     /// <summary>
     /// Base class that implements multiple assembly issues like the resolver behavior.
