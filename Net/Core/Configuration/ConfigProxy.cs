@@ -1,9 +1,9 @@
 using System;
 using System.Runtime.InteropServices;
-using Primavera.Platform.CloudServices900.Base;
-using Primavera.Platform.CloudServices900.Helpers;
+using BinaryLeaks.Core.Base;
+using BinaryLeaks.Core.Helpers;
 
-namespace Primavera.Platform.CloudServices900.Configuration
+namespace BinaryLeaks.Core.Configuration
 {
     /// <summary>
     /// Class exposed to COM. 
