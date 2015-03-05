@@ -1,7 +1,7 @@
 using System;
 using System.ComponentModel;
 
-namespace Primavera.Platform.CloudServices900.Base
+namespace BinaryLeaks.Core.Base
 {
     /// <summary>
     /// Base class of view model classes.
