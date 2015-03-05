@@ -3,9 +3,9 @@ using System.Collections.ObjectModel;
 using System.Configuration;
 using System.Diagnostics;
 using System.Globalization;
-using Primavera.Platform.CloudServices900.Helpers;
+using BinaryLeaks.Core.Helpers;
 
-namespace Primavera.Platform.CloudServices900.Configuration
+namespace BinaryLeaks.Core.Configuration
 {
     /// <summary>
     /// Provides a Configuration helper.
